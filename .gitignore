@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+combined_marriage_muhurats.csv
+combined_marriage_muhurats_full.csv
